@@ -11,3 +11,29 @@ https://imrahit-todo-mern.herokuapp.com/
 * And go to client folder and run ```npm install```
 * And get back to main folder and run ```npm run dev```
 * Then the application should start 
+
+## Libraries used
+### Frontend
+* ReactJS
+* Material-UI
+* React-reavel
+* React devTools
+* axios and HTML, CSS
+
+### Backend
+* NodeJS
+* ExpressJS
+* Mongoose 
+* cors
+* config
+* concurrently
+
+### Database
+* MongoDB (Atlas)
+
+Love you JS, Chrome and VSCode.
+
+## Author
+Its me Rahit KC
+
+
