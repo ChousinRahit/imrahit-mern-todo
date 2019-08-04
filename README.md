@@ -1,7 +1,7 @@
 # MERN Todo application
 
 A MERN todo app.
-https://imrahit-mern-todo.herokuapp.com/
+https://imrahit-todo-mern.herokuapp.com/
 
 ## Getting started
 * Download or clone the repository to your local machine.
