@@ -176,6 +176,7 @@ const TodoCard = props => {
               Edit
             </Button>
             <Button
+              style={{ marginLeft: "10px" }}
               size="small"
               variant="contained"
               color="secondary"
